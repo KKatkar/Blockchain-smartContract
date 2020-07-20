@@ -4,4 +4,4 @@ A smart contract written in Solidity (version 0.5) and deployed over ganache and
 It implements the following functionalities:
 - Restricts double spending
 - Withdraw losing bids
-- Identify auction winner and deduct amount (amount get added to the auction beneficiary's account)
+- Identify auction winner and deduct amount (amount gets added to the auction beneficiary's account)
